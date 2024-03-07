@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "xKcCltvy5RCriHjt8H5mJx/5Lnprb98CLzD+7ROZJWaQ3TN3i0Z3z9Xm/nZyt7MCoyWUmvrT98L14cZr+Z2bKA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\muuci\\Desktop\\Olx\\sherlock_holmes\\Like Sherlock Holmes\\Like Sherlock Holmes\\Like Sherlock Holmes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\muuci\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\muuci\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\muuci\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\muuci\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}

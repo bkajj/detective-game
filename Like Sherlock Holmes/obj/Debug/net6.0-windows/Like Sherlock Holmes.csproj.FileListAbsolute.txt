@@ -1,0 +1,35 @@
+C:\Users\Oskar\Desktop\Olx\sherlock_holmes\Like Sherlock Holmes\Like Sherlock Holmes\bin\Debug\net6.0-windows\Like Sherlock Holmes.exe
+C:\Users\Oskar\Desktop\Olx\sherlock_holmes\Like Sherlock Holmes\Like Sherlock Holmes\bin\Debug\net6.0-windows\Like Sherlock Holmes.deps.json
+C:\Users\Oskar\Desktop\Olx\sherlock_holmes\Like Sherlock Holmes\Like Sherlock Holmes\bin\Debug\net6.0-windows\Like Sherlock Holmes.runtimeconfig.json
+C:\Users\Oskar\Desktop\Olx\sherlock_holmes\Like Sherlock Holmes\Like Sherlock Holmes\bin\Debug\net6.0-windows\Like Sherlock Holmes.dll
+C:\Users\Oskar\Desktop\Olx\sherlock_holmes\Like Sherlock Holmes\Like Sherlock Holmes\bin\Debug\net6.0-windows\Like Sherlock Holmes.pdb
+C:\Users\Oskar\Desktop\Olx\sherlock_holmes\Like Sherlock Holmes\Like Sherlock Holmes\obj\Debug\net6.0-windows\Like Sherlock Holmes.csproj.AssemblyReference.cache
+C:\Users\Oskar\Desktop\Olx\sherlock_holmes\Like Sherlock Holmes\Like Sherlock Holmes\obj\Debug\net6.0-windows\Like_Sherlock_Holmes.gameForm.resources
+C:\Users\Oskar\Desktop\Olx\sherlock_holmes\Like Sherlock Holmes\Like Sherlock Holmes\obj\Debug\net6.0-windows\Like Sherlock Holmes.csproj.GenerateResource.cache
+C:\Users\Oskar\Desktop\Olx\sherlock_holmes\Like Sherlock Holmes\Like Sherlock Holmes\obj\Debug\net6.0-windows\Like Sherlock Holmes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oskar\Desktop\Olx\sherlock_holmes\Like Sherlock Holmes\Like Sherlock Holmes\obj\Debug\net6.0-windows\Like Sherlock Holmes.AssemblyInfoInputs.cache
+C:\Users\Oskar\Desktop\Olx\sherlock_holmes\Like Sherlock Holmes\Like Sherlock Holmes\obj\Debug\net6.0-windows\Like Sherlock Holmes.AssemblyInfo.cs
+C:\Users\Oskar\Desktop\Olx\sherlock_holmes\Like Sherlock Holmes\Like Sherlock Holmes\obj\Debug\net6.0-windows\Like Sherlock Holmes.csproj.CoreCompileInputs.cache
+C:\Users\Oskar\Desktop\Olx\sherlock_holmes\Like Sherlock Holmes\Like Sherlock Holmes\obj\Debug\net6.0-windows\Like Sherlock Holmes.dll
+C:\Users\Oskar\Desktop\Olx\sherlock_holmes\Like Sherlock Holmes\Like Sherlock Holmes\obj\Debug\net6.0-windows\refint\Like Sherlock Holmes.dll
+C:\Users\Oskar\Desktop\Olx\sherlock_holmes\Like Sherlock Holmes\Like Sherlock Holmes\obj\Debug\net6.0-windows\Like Sherlock Holmes.pdb
+C:\Users\Oskar\Desktop\Olx\sherlock_holmes\Like Sherlock Holmes\Like Sherlock Holmes\obj\Debug\net6.0-windows\Like Sherlock Holmes.genruntimeconfig.cache
+C:\Users\Oskar\Desktop\Olx\sherlock_holmes\Like Sherlock Holmes\Like Sherlock Holmes\obj\Debug\net6.0-windows\ref\Like Sherlock Holmes.dll
+C:\Users\Oskar\Desktop\Olx\sherlock_holmes\Like Sherlock Holmes\Like Sherlock Holmes\obj\Debug\net6.0-windows\Like_Sherlock_Holmes.Properties.Resources.resources
+C:\Users\muuci\Desktop\Olx\sherlock_holmes\Like Sherlock Holmes\Like Sherlock Holmes\bin\Debug\net6.0-windows\Like Sherlock Holmes.exe
+C:\Users\muuci\Desktop\Olx\sherlock_holmes\Like Sherlock Holmes\Like Sherlock Holmes\bin\Debug\net6.0-windows\Like Sherlock Holmes.deps.json
+C:\Users\muuci\Desktop\Olx\sherlock_holmes\Like Sherlock Holmes\Like Sherlock Holmes\bin\Debug\net6.0-windows\Like Sherlock Holmes.runtimeconfig.json
+C:\Users\muuci\Desktop\Olx\sherlock_holmes\Like Sherlock Holmes\Like Sherlock Holmes\bin\Debug\net6.0-windows\Like Sherlock Holmes.dll
+C:\Users\muuci\Desktop\Olx\sherlock_holmes\Like Sherlock Holmes\Like Sherlock Holmes\bin\Debug\net6.0-windows\Like Sherlock Holmes.pdb
+C:\Users\muuci\Desktop\Olx\sherlock_holmes\Like Sherlock Holmes\Like Sherlock Holmes\obj\Debug\net6.0-windows\Like_Sherlock_Holmes.gameForm.resources
+C:\Users\muuci\Desktop\Olx\sherlock_holmes\Like Sherlock Holmes\Like Sherlock Holmes\obj\Debug\net6.0-windows\Like_Sherlock_Holmes.Properties.Resources.resources
+C:\Users\muuci\Desktop\Olx\sherlock_holmes\Like Sherlock Holmes\Like Sherlock Holmes\obj\Debug\net6.0-windows\Like Sherlock Holmes.csproj.GenerateResource.cache
+C:\Users\muuci\Desktop\Olx\sherlock_holmes\Like Sherlock Holmes\Like Sherlock Holmes\obj\Debug\net6.0-windows\Like Sherlock Holmes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muuci\Desktop\Olx\sherlock_holmes\Like Sherlock Holmes\Like Sherlock Holmes\obj\Debug\net6.0-windows\Like Sherlock Holmes.AssemblyInfoInputs.cache
+C:\Users\muuci\Desktop\Olx\sherlock_holmes\Like Sherlock Holmes\Like Sherlock Holmes\obj\Debug\net6.0-windows\Like Sherlock Holmes.AssemblyInfo.cs
+C:\Users\muuci\Desktop\Olx\sherlock_holmes\Like Sherlock Holmes\Like Sherlock Holmes\obj\Debug\net6.0-windows\Like Sherlock Holmes.csproj.CoreCompileInputs.cache
+C:\Users\muuci\Desktop\Olx\sherlock_holmes\Like Sherlock Holmes\Like Sherlock Holmes\obj\Debug\net6.0-windows\Like Sherlock Holmes.dll
+C:\Users\muuci\Desktop\Olx\sherlock_holmes\Like Sherlock Holmes\Like Sherlock Holmes\obj\Debug\net6.0-windows\refint\Like Sherlock Holmes.dll
+C:\Users\muuci\Desktop\Olx\sherlock_holmes\Like Sherlock Holmes\Like Sherlock Holmes\obj\Debug\net6.0-windows\Like Sherlock Holmes.pdb
+C:\Users\muuci\Desktop\Olx\sherlock_holmes\Like Sherlock Holmes\Like Sherlock Holmes\obj\Debug\net6.0-windows\Like Sherlock Holmes.genruntimeconfig.cache
+C:\Users\muuci\Desktop\Olx\sherlock_holmes\Like Sherlock Holmes\Like Sherlock Holmes\obj\Debug\net6.0-windows\ref\Like Sherlock Holmes.dll
